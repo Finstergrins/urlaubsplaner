@@ -1,4 +1,4 @@
 <?
 
-echo "Hallo Git!";
+echo "Hallo Github!";
 ?>
